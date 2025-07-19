@@ -71,3 +71,7 @@ By completing this project, the developer gains practical experience in integrat
 
 *OUTPUT*
 
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/54b5f45c-bab2-4585-a2b7-559269a8042a" />
+
+<img width="1919" height="1023" alt="Image" src="https://github.com/user-attachments/assets/b8836ffa-3f0b-4099-aa54-af8bd75fa8e1" />
+<img width="1919" height="1023" alt="Image" src="https://github.com/user-attachments/assets/2407e933-2b5d-4d5a-b572-719231e34e12" />
